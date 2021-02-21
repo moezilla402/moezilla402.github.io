@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+![Red-Belly Woodpecker](https://github.com/moezilla402/moezilla402.github.io/blob/main/DSC_0089.JPG)
+
 - Bulleted
 - List
 
