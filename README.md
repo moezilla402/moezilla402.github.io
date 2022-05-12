@@ -4,7 +4,7 @@ I started this page as a part of the GitHub tutorial, and also as a part of a co
 
 In the past, I learned _just enough_ of assembly language and C/C++ to pass specific college courses. Later, I had to figure out Python in graduate school.  I have even worked on Java and HTML a bit as side projects and curiosities. 
 
-In the end, I enjoy the art of solving the *engineering problem* but do not enjoy the linguistical aspects of _really_ learning programming languages as much. 
+In the end, I enjoy the art of solving the "engineering problem" but do not enjoy the linguistical aspects of _really_ learning programming languages as much. 
 
 This may (or may not) work from time to time:
 Here's a cool Red-Belly Woodpecker that I photographed [Red-Belly Woodpecker] (https://github.com/moezilla402/moezilla402.github.io/blob/main/DSC_0089.JPG)
