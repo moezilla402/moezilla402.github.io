@@ -7,7 +7,7 @@ In the past, I learned _just enough_ of assembly language and C/C++ to pass spec
 In the end, I enjoy the art of solving the "engineering problem" but do not enjoy the linguistical aspects of _really_ learning programming languages as much. 
 
 This may (or may not) work from time to time:
-Here's a cool Red-Belly Woodpecker that I photographed [Red-Belly Woodpecker] (https://github.com/moezilla402/moezilla402.github.io/blob/main/DSC_0089.JPG)
+Here's a cool Red-Belly Woodpecker that I photographed [Red-Belly Woodpecker] (https://github.com/moezilla402/moezilla402.github.io/blob/main/DSC_0089.JPG) 
 
 
 <!-- You can use the [editor on GitHub](https://github.com/moezilla402/moezilla402.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.  
